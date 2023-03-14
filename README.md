@@ -4,7 +4,7 @@
 
 A cross-platform app using React Native with Expo emulating a medicines distributor marketplace
 
-<img src="Loading.png" alt= 'Loading Screenshot'  height="300px"><img src="SearchMeds.png" alt= 'Search Meds Screenshot'  height="300px"><img src="SearchMeds17.png" alt= 'Search Med 17 Screenshot'  height="300px"><img src="SearchUpdateAmount.png" alt= 'Update Med Amount Screenshot'  height="300px"><img src="AllOrders.png" alt= 'All Orders Screenshot'  height="300px"><img src="ShoppingCart.png" alt= 'Shopping Cart Screenshot'  height="300px">
+<img src="Loading.png" alt= 'Loading Screenshot'  height="300px"> <img src="SearchMeds.png" alt= 'Search Meds Screenshot'  height="300px"> <img src="SearchMeds17.png" alt= 'Search Med 17 Screenshot'  height="300px"> <img src="SearchUpdateAmount.png" alt= 'Update Med Amount Screenshot'  height="300px"> <img src="AllOrders.png" alt= 'All Orders Screenshot'  height="300px"> <img src="ShoppingCart.png" alt= 'Shopping Cart Screenshot'  height="300px">
 
 The app uses a mock server deployed in an Azure Web App.
 
